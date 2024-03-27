@@ -1,2 +1,2 @@
-# Device_for_training_binocular_vision
+# Device-for-training-binocular-vision
 Этот репозиторий создан для загрузки кода к устройству для тренировки бинокулярного зрения
