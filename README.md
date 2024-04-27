@@ -1,2 +1,2 @@
-# Device-for-training-binocular-vision
-Этот репозиторий создан для загрузки кода к устройству для тренировки бинокулярного зрения
+# DFTBV
+DFTBV (Devive for training binocular vision) - Устройство для тренировки бинокулярного зрения
